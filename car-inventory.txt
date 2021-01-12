@@ -1,0 +1,19 @@
+Row Labels	Sum of Miles
+Bard	144647.7
+Chan	150656.4
+Ewenty	154427.9
+Gaul	179986
+Howard	143640.7
+Hulinski	135078.2
+Jones	184693.8
+Lyon	127731.3
+McCall	70964.9
+Praulty	65315
+Rodriguez	138561.5
+Santos	141229.4
+Smith	305432.4
+Swartz	177713.9
+Torrens	65964.9
+Vizzini	130601.6
+Yousef	19341.7
+Grand Total	2335987.3
